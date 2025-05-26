@@ -1,6 +1,9 @@
 https://medium.com/@ssrinuwas.r/building-a-serverless-ai-chatbot-with-amazon-bedrock-titan-model-aws-lambda-api-gateway-s3-16153add1efc
-**
-**Build a Serverless AI Chatbot with Amazon Bedrock, Lambda, API Gateway & S3 ********
+
+
+
+
+****Build a Serverless AI Chatbot with Amazon Bedrock, Lambda, API Gateway & S3 ********
 
 
 Serverless AI Chatbot using Amazon Bedrock
