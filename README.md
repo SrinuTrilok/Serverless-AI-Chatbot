@@ -1,8 +1,10 @@
-Build a Serverless AI Chatbot with Amazon Bedrock, Lambda, API Gateway & S3 🤖
+https://medium.com/@ssrinuwas.r/building-a-serverless-ai-chatbot-with-amazon-bedrock-titan-model-aws-lambda-api-gateway-s3-16153add1efc
+**
+**Build a Serverless AI Chatbot with Amazon Bedrock, Lambda, API Gateway & S3 ********
 
 
 Serverless AI Chatbot using Amazon Bedrock
-Build this hands-on demo step by step with my detailed tutorial on Julien Muke YouTube. Feel free to subscribe 🔔!
+Build this hands-on demo step by step with my detailed tutorial on Julien Muke YouTube. Feel free to subscribe 
 Tutorial
 
 This repository contains the steps corresponding to an in-depth tutorial available on my YouTube channel, Julien Muke.
